@@ -1,6 +1,6 @@
 Détection Automatique des Données Sensibles (Loi 09-08)
 
-##Description
+## Description
 
 Ce projet a pour objectif de concevoir un système de **détection automatique des données sensibles** dans des jeux de données médicaux, en conformité avec la **loi marocaine 08-09** sur la protection des données à caractère personnel.  
 Il repose sur l’utilisation de plusieurs algorithmes d’apprentissage automatique, comparés selon différents critères de performance.
@@ -107,21 +107,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-lear
 
 ---
 
-## 📂 Structure du Code
 
-```
-├── healthcare_dataset.csv
-├── detection_donnees_sensibles.py
-└── README.md
-```
-
----
-
-## 👥 Auteurs
-
-- **Nisrine BAKHOUCH**
-- **Khadija TARHRI**
-- **Encadré par :** Pr. Younes TABII – ENSIAS
 
 ---
 
