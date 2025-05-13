@@ -1,8 +1,8 @@
-Détection Automatique des Données Sensibles (Loi 09-08)
+# Détection Automatique des Données Sensibles (Loi 09-08)
 
 ## Description
 
-Ce projet a pour objectif de concevoir un système de **détection automatique des données sensibles** dans des jeux de données médicaux, en conformité avec la **loi marocaine 08-09** sur la protection des données à caractère personnel.  
+Ce projet a pour objectif de concevoir un système de **détection automatique des données sensibles** dans des jeux de données médicaux, en conformité avec la **loi marocaine 09-08** sur la protection des données à caractère personnel.  
 Il repose sur l’utilisation de plusieurs algorithmes d’apprentissage automatique, comparés selon différents critères de performance.
 
 ---
@@ -111,7 +111,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-lear
 
 ---
 
-## 📚 Références
+## Références
 
 - [Loi 08-09 sur la protection des données personnelles (CNDP)](https://www.cndp.ma)
 - [Kaggle Dataset utilisé](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
